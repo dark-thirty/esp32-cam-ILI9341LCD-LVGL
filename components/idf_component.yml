@@ -1,0 +1,14 @@
+dependencies:
+  button:
+    public: true
+    version: '>=2.5,<4.0'
+  esp32-camera:
+    public: true
+    version: ^2.0.13
+  esp_lvgl_port:
+    public: true
+    version: ^2
+  lvgl/lvgl:
+    public: true
+    version: ^9
+  idf: '>=5.3.1'
