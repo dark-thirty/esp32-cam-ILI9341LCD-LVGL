@@ -18,10 +18,9 @@ Esp32-cam connected to 2.8" ili9341 LCD display using LVGL for video stream.
 | LED | 3.3V |
 | MISO | NC  |
 
-
-
-https://github.com/user-attachments/assets/a043f664-469b-4cb5-a1e8-a47ffedd5654
-
-
-
 ![terminal](https://github.com/user-attachments/assets/7b17a434-453d-41e2-ad47-601f8f8c8a1a)
+
+
+
+https://github.com/user-attachments/assets/2baa230a-cb1f-4ec4-8d67-f5280c7f97c2
+
