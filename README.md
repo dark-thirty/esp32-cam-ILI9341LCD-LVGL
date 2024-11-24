@@ -1,5 +1,5 @@
 
-# Board Support Package (esp-bsp component) using ESP-IDF 5.3, ili9341 LCD and LVGL 9.x modified for esp32-cam
+# Board Support Package (esp-bsp component) modified for esp32-cam using ESP-IDF 5.3, 2,8" ili9341 LCD display and LVGL 9.x
 
 Esp32-cam connected to 2.8" ili9341 LCD display using LVGL for video stream.
 This project requires the esp-idf sdk 5.3.1.
@@ -7,10 +7,10 @@ This project requires the esp-idf sdk 5.3.1.
  ## Display Pins
  
 | Pin Number on ILI9341 Display  | Pin Number on ESP32-cam |
-| ----------- | ----------- |
-| 3.3V     | 3.3V       |
-| GND      | GND   |
-| CS| 12  |
+| ------------ | ------------ |
+| 3.3V     | 3.3V      |
+| GND      | GND    |
+| CS | 12  |
 | RST | 2   |
 | DC | 13  |
 | MOSI | 15 |
