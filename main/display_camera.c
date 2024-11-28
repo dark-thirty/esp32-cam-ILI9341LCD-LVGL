@@ -25,10 +25,6 @@
 
 static const char *TAG = "example";
 
-#define IMG_WIDTH 320
-#define IMG_HEIGHT 240
-#define CAM_FRAME_SIZE FRAMESIZE_QVGA
-
 void app_main(void)
 {
     bsp_display_start();
